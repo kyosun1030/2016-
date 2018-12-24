@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dc1667049e57f3c4ea03faabc686ab08
+timeCreated: 1474779741
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - NanumGothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4ca24072ce4e9d04abe2f647c0465476, type: 3}
+  - {fileID: 12800000, guid: 893c92f31d7cb924fbcc008d0f6f6661, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
